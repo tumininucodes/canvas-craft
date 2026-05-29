@@ -1,6 +1,6 @@
-# CanvasCraft 🎨✨
+# CanvasCraft
 
-**CanvasCraft** is a premium, open-source, web-based graphic design editor built on SvelteKit and Tailwind CSS v4. It serves as a modern, lightweight Canva alternative that runs entirely in the browser, offering rich interactive features for graphic creation, template editing, and multi-layer layouts.
+**CanvasCraft** is an open-source, web-based graphic design editor built on SvelteKit and Tailwind CSS v4. It serves as a modern, lightweight Canva alternative that runs entirely in the browser, offering rich interactive features for graphic creation, template editing, and multi-layer layouts.
 
 ![CanvasCraft Product Screenshot](./Screenshot_10.png)
 
