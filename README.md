@@ -19,6 +19,7 @@
 - **Undo/Redo History**: Deep-cloned, 50-step history tracking to undo/redo operations with ease.
 - **Exporting Options**: Download your final design instantly as PNG, JPEG, SVG, or save the project as an editable `.json` file to import later.
 
+
 ## Tech Stack
 
 - **Framework**: [SvelteKit](https://kit.svelte.dev/) (Svelte 5)
