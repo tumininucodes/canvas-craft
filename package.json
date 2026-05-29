@@ -38,9 +38,11 @@
 	},
 	"dependencies": {
 		"@lucide/svelte": "^1.17.0",
-		"@rolldown/binding-win32-x64-msvc": "^1.0.2",
 		"canvas-confetti": "^1.9.4",
 		"html-to-image": "^1.11.13",
 		"lucide-svelte": "^1.0.1"
+	},
+	"optionalDependencies": {
+		"@rolldown/binding-win32-x64-msvc": "^1.0.2"
 	}
 }
